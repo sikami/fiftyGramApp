@@ -1,4 +1,4 @@
-Project Fiftygram:
+<h1>Project Fiftygram</h1>
 
 This app is a simple app that applies filter to photos.
 
